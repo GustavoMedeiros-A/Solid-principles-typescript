@@ -1,0 +1,12 @@
+{
+  "name": "Solid-principles-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GustavoMedeiros-A/Solid-principles-typescript.git",
+  "author": "GustavoMedeiros-A <gustavomedeiros15@outlook.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
